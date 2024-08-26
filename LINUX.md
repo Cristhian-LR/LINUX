@@ -5,6 +5,6 @@
 
 -mañana menos
 
-![imagen](images.jpg)
+![imagen](images.png?raw=true)
 
 
