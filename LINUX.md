@@ -1,9 +1,9 @@
 # LINUX
 # presentacion
 
--hoy no se have nada 
+-hoy no se hace nada 
 
--mañana menos
+-mañana menos y pasado tampoco
 
 ![imagen](images.png?raw=true)
 
