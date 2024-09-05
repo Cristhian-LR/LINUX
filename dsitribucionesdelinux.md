@@ -14,8 +14,11 @@ Las distribuciones de Linux son variaciones del sistema operativo Linux, cada un
 - Kali Linux: Diseñada para pruebas de penetración y seguridad informática.
 - Manjaro: Basada en Arch Linux, pero más amigable y fácil de instalar, para usuarios de todos los niveles.
 
-<div align="center">
-  <img src="imgdistribucioneslinux.png" alt="imagen, distribucines linux" />
+
+
+<div style="text-align: center;">
+  <img src="imgdistribucioneslinux.png" alt="imagen centrada" />
 </div>
+
 </div>
 </div>
