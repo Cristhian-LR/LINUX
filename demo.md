@@ -45,8 +45,8 @@ Este error en la llamada al sistema "vmsplice()" permitía a un usuario local ga
 </div>
 
 <dlv aling="center">
-<img src="./creadorl.png" alt="imagen"width="300" />
-<img src="./imagen.png" alt="imagen" width="450"/>
+<img src="./creadorl.png" alt="imagen"width="250" />
+<img src="./imagen.png" alt="imagen" width="350"/>
 </div>
 
  
