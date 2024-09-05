@@ -1,3 +1,6 @@
+<div style="line-height: 1.5;">
+<div style="text-align: justify;">
+
 # DISTRIBUCIONES DE LINUX
 Las distribuciones de Linux son variaciones del sistema operativo Linux, cada una adaptada para diferentes usos y usuarios.
 
@@ -10,3 +13,9 @@ Las distribuciones de Linux son variaciones del sistema operativo Linux, cada un
 - OpenSUSE: Versátil y robusta, para servidores y escritorios, conocida por sus herramientas de administración.
 - Kali Linux: Diseñada para pruebas de penetración y seguridad informática.
 - Manjaro: Basada en Arch Linux, pero más amigable y fácil de instalar, para usuarios de todos los niveles.
+
+<div align="center">
+  <img src="imgdistribucioneslinux.png" alt="imagen, distribucines linux" />
+</div>
+</div>
+</div>
