@@ -23,6 +23,9 @@ Comando básico: sudo pacman -S nombre_del_paquete
 Uso: Utilizado en OpenSUSE.
 Comando básico: sudo zypper install nombre_del_paquete
 
+  <img src="gestorp.png" alt="imagen" width="650" /> 
+</div>
+
 ### 2. Instalación desde Código Fuente:
 
 Instalar desde el código fuente implica descargar el código original de la aplicación y compilarlo manualmente. Este método es más flexible, pero también más complejo.
