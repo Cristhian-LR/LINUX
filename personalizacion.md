@@ -26,6 +26,6 @@ Interfaz de Usuario:
 Aplicaciones:
 - Elegir e instalar software específico según tus necesidades.
 
-Aqui un video de personalizacion de Linux: https://www.youtube.com/watch?v=OqR7vttpITs 
+Aqui un video de personalizacion de Linux:https://www.youtube.com/watch?v=OqR7vttpITs 
 </div>
 </div>
