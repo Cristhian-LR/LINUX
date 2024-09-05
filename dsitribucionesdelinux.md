@@ -1,4 +1,4 @@
-<div style="line-height: 1.5;">
+<div style="line-height: 1.5;"> 
 <div style="text-align: justify;">
 
 # DISTRIBUCIONES DE LINUX
@@ -15,10 +15,5 @@ Las distribuciones de Linux son variaciones del sistema operativo Linux, cada un
 - Manjaro: Basada en Arch Linux, pero más amigable y fácil de instalar, para usuarios de todos los niveles.
 
 
-
 <div style="text-align: center;">
-  <img src="imgdistribucioneslinux.png" alt="imagen centrada" width="400" />
-</div>
-
-</div>
-</div>
+  <img src="imgdistribucioneslinux.png" alt="imagen centrada" width="400" /> </div>
