@@ -68,7 +68,8 @@ Cada sistema operativo (Linux, Windows, macOS) tiene aplicaciones que son emblem
 - Konsole y GNOME Terminal: Emuladores de terminal.
 - Kdenlive y Blender: Para edición de video y modelado 3D.
 
-
+  <img src="aplicacionesexclusivas.png" alt="imagen" width="650" /> 
+</div>
 
 ### Extensiones de Archivos Comunes para la Instalación:
 Cada sistema operativo usa diferentes extensiones de archivo para instalar y distribuir software:
