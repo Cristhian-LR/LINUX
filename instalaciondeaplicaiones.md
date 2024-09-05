@@ -22,9 +22,9 @@ Comando básico: sudo pacman -S nombre_del_paquete
 - Zypper:
 Uso: Utilizado en OpenSUSE.
 Comando básico: sudo zypper install nombre_del_paquete
+<div style="text-align: center;">
 
-  <img src="gestorp.png" alt="imagen" width="650" /> 
-</div>
+<img src="gestorp.png" alt="imagen" width="650" /> </div>
 
 ### 2. Instalación desde Código Fuente:
 
@@ -70,8 +70,7 @@ Cada sistema operativo (Linux, Windows, macOS) tiene aplicaciones que son emblem
 
 <div style="text-align: center;">
 
-<img src="aplicacionesexclusivas.png" alt="imagen" width="650" /> 
-</div>
+<img src="aplicacionesexclusivas.png" alt="imagen" width="650" />  </div>
 
 ### Extensiones de Archivos Comunes para la Instalación:
 Cada sistema operativo usa diferentes extensiones de archivo para instalar y distribuir software:
