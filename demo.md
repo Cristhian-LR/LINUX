@@ -39,6 +39,9 @@ Un error en la función "mremap()" del kernel permitió una vulnerabilidad que p
 
 Este error en la llamada al sistema "vmsplice()" permitía a un usuario local ganar privilegios de root, afectando a múltiples versiones del kernel Linux. Este exploit fue ampliamente explotado en la naturaleza antes de que se corrigiera.
 
+  <img src="lineatiempo.png" alt="imagen" width="700" /> 
+</div>
+
 # Filososfia de Software Open Source
 - La filosofía del software open source se basa en la idea de que el código fuente de un programa debe estar disponible para cualquier persona que quiera verlo, modificarlo y redistribuirlo. Esto contrasta con el software propietario, donde el código fuente está cerrado y controlado por una empresa o individuo. El open source promueve la colaboración, la transparencia y la libertad tecnológica.
 </div>
