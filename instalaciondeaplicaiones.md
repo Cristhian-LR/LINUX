@@ -1,3 +1,7 @@
+<div style="line-height: 1.5;">
+<div style="text-align: justify;">
+
+
 # INSTALACION DE APLICACIONES EN LINUX
 
 La instalación de aplicaciones en Linux puede realizarse de diferentes maneras, principalmente a través de gestores de paquetes o compilando desde el código fuente.
@@ -49,3 +53,26 @@ Pasos Básicos:
 - Disponibilidad: Algunas aplicaciones más nuevas o especializadas pueden no estar en los repositorios y necesitan ser instaladas desde el código fuente.
 
 En resumen, los gestores de paquetes son la opción preferida para la mayoría de los usuarios debido a su simplicidad y eficiencia, mientras que la instalación desde el código fuente es ideal para quienes necesitan un control más detallado o para software no disponible en los repositorios.
+
+### Aplicaciones Famosas y Exclusivas del Sistema Operativo:
+
+Cada sistema operativo (Linux, Windows, macOS) tiene aplicaciones que son emblemáticas o exclusivas debido a su diseño o compatibilidad con la plataforma:
+
+- GIMP: Alternativa a Photoshop para edición de imágenes.
+- Krita: Aplicación avanzada de dibujo y pintura digital.
+- LibreOffice: Suite ofimática completa.
+- VLC: Reproductor multimedia versátil (disponible también en otros sistemas).
+- Konsole y GNOME Terminal: Emuladores de terminal.
+- Kdenlive y Blender: Para edición de video y modelado 3D.
+
+
+
+### Extensiones de Archivos Comunes para la Instalación:
+Cada sistema operativo usa diferentes extensiones de archivo para instalar y distribuir software:
+
+- .deb: Paquetes para distribuciones basadas en Debian (como Ubuntu).
+- .rpm: Paquetes para distribuciones basadas en Red Hat (Fedora, CentOS).
+- .AppImage: Paquete portátil que no requiere instalación.
+- .tar.gz/.tar.xz: Archivos comprimidos que contienen el código fuente o el software para ser instalado manualmente.
+</div>
+</div>
