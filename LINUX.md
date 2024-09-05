@@ -1,3 +1,7 @@
+<img src="descarga.png" alt="imagen" width="800" /> </div>
+
+
+
 <div style="text-align: center;">
 
 # LINUX
@@ -5,6 +9,9 @@
 
 <div style="line-height: 1.5;">
 <div style="text-align: justify;">
+
+
+
 
 ## HISTORIA
 
