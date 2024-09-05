@@ -1,3 +1,6 @@
+<div style="line-height: 1.5;">
+<div style="text-align: justify;">
+
 # linux
 
 - Linus Benedict Torvaldses un ingeniero de software finlandés-estadounidense,​ conocido por iniciar y mantener el desarrollo del kernel Linux
@@ -35,3 +38,6 @@ Un error en la función "mremap()" del kernel permitió una vulnerabilidad que p
 -Exploit en "vmsplice()" en 2008:
 
 Este error en la llamada al sistema "vmsplice()" permitía a un usuario local ganar privilegios de root, afectando a múltiples versiones del kernel Linux. Este exploit fue ampliamente explotado en la naturaleza antes de que se corrigiera.
+
+</div>
+</div>
