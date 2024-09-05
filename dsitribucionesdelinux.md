@@ -16,5 +16,5 @@ Las distribuciones de Linux son variaciones del sistema operativo Linux, cada un
 
 
 <div style="text-align: center;">
-  <img src="imgdistribucioneslinux.png" alt="imagen centrada" width="400" /> 
+  <img src="imgdistribucioneslinux.png" alt="imagen centrada" width="700" /> 
 </div>
